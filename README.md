@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="kirokaze.gif" width="600" alt="Kirokaze Banner" />
-  <h1>Hi, I'm Fachril Akbar</h1>
-  <h3>Full-Stack Developer & AI/ML Enthusiast</h3>
-</div>
+<img src="kirokaze.gif" width="100%" alt="Kirokaze Banner" />
+
+<h1>
+  Hi, I'm Fachril Akbar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40" alt="Waving Hand" align="absmiddle" />
+</h1>
+
+<h3>Full-Stack Developer & AI/ML Enthusiast</h3>
 <br/>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -30,7 +32,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="25" height="25" alt="Laptop" align="absmiddle" /> Tech Stack
 
 <div align="center">
 
