@@ -1,27 +1,33 @@
 <div align="center">
-  <!-- GIF Kirokaze dipindah ke paling atas sebagai banner -->
-  <img src="https://github.com/user-attachments/assets/22941f57-71df-42fb-9a8a-0558737ee066" width="100%" alt="Coding Animation" />
-  
-  <br/>
-  
+  <img src="kirokaze.gif" width="600" alt="Kirokaze Banner" />
   <h1>Hi, I'm Fachril Akbar</h1>
-  <h3>A passionate Full-Stack Developer & AI/ML Engineer from Indonesia</h3>
+  <h3>Full-Stack Developer & AI/ML Enthusiast</h3>
 </div>
 
 <br/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fachrilakbar12&label=Profile%20views&color=0e75b6&style=flat" alt="fachrilakbar12" /> 
-</p>
-
-- Ask me about: **Laravel, Next.js, Python, REST APIs, and Machine Learning**
-- How to reach me: **fachrilakbar04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/fachrilakbar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fachrilakbar_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/fachrilakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fachrilakbar" height="30" width="40" /></a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p>I am an Informatics Engineering graduate focused on building functional web applications and exploring artificial intelligence. My technical background includes developing scalable full-stack systems and implementing computer vision models for image processing and real-time detection tasks.</p>
+      <p>I prioritize writing clean, maintainable code and continuously learning new tools to solve practical problems effectively.</p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=fachrilakbar12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      </p>
+      <ul>
+        <li>Focusing on: <b>Full-Stack Web (Laravel, Next.js) & Deep Learning</b></li>
+        <li>Reach me at: <b>fachrilakbar04@gmail.com</b></li>
+      </ul>
+      <br/>
+      <b>Connect with me:</b><br/>
+      <a href="https://linkedin.com/in/fachrilakbar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://instagram.com/fachrilakbar_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="me.gif" width="250" alt="My Profile GIF" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -62,10 +68,10 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fachrilakbar12&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fachrilakbar12 stats" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fachrilakbar12&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="fachrilakbar12 langs" width="48%" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fachrilakbar12&theme=tokyonight" alt="fachrilakbar12 stats" width="48%" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fachrilakbar12&theme=tokyonight" alt="fachrilakbar12 langs" width="48%" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fachrilakbar12&theme=tokyonight&hide_border=true" alt="fachrilakbar12 streak" width="97%" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=fachrilakbar12&theme=tokyonight&hide_border=true" alt="fachrilakbar12 streak" width="97%" />
 </p>
