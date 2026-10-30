@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-data/giphy.gif" width="100%" alt="Cyberpunk City Banner" />
+  <!-- GIF Kirokaze dipindah ke paling atas sebagai banner -->
+  <img src="https://github.com/user-attachments/assets/22941f57-71df-42fb-9a8a-0558737ee066" width="100%" alt="Coding Animation" />
+  
+  <br/>
+  
   <h1>Hi, I'm Fachril Akbar</h1>
   <h3>A passionate Full-Stack Developer & AI/ML Engineer from Indonesia</h3>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/7b3G-X72vH0AAAAC/kirokaze-pixel.gif" />
+<br/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fachrilakbar12&label=Profile%20views&color=0e75b6&style=flat" alt="fachrilakbar12" /> 
@@ -21,7 +25,7 @@
 
 <br/>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -58,10 +62,10 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fachrilakbar12&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fachrilakbar12" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fachrilakbar12&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="fachrilakbar12" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fachrilakbar12&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fachrilakbar12 stats" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fachrilakbar12&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="fachrilakbar12 langs" width="48%" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fachrilakbar12&theme=tokyonight&hide_border=true" alt="fachrilakbar12" width="97%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fachrilakbar12&theme=tokyonight&hide_border=true" alt="fachrilakbar12 streak" width="97%" />
 </p>
