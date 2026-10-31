@@ -1,11 +1,12 @@
 <div align="center">
   <img src="kirokaze.gif" width="100%" alt="Kirokaze Banner" />
-  <br/><br/>
+  
   <h1>
     Hi, I'm Fachril Akbar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40" alt="Waving Hand" align="absmiddle" />
   </h1>
   <h3>Full-Stack Developer & AI/ML Enthusiast</h3>
 </div>
+
 <br/>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
