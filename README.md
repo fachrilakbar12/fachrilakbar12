@@ -1,10 +1,11 @@
-<img src="kirokaze.gif" width="100%" alt="Kirokaze Banner" />
-
-<h1>
-  Hi, I'm Fachril Akbar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40" alt="Waving Hand" align="absmiddle" />
-</h1>
-
-<h3>Full-Stack Developer & AI/ML Enthusiast</h3>
+<div align="center">
+  <img src="kirokaze.gif" width="100%" alt="Kirokaze Banner" />
+  <br/><br/>
+  <h1>
+    Hi, I'm Fachril Akbar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" height="40" alt="Waving Hand" align="absmiddle" />
+  </h1>
+  <h3>Full-Stack Developer & AI/ML Enthusiast</h3>
+</div>
 <br/>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -19,26 +20,54 @@
         <li>Focusing on: <b>Full-Stack Web (Laravel, Next.js) & Deep Learning</b></li>
         <li>Reach me at: <b>fachrilakbar04@gmail.com</b></li>
       </ul>
-      <br/>
-      <b>Connect with me:</b><br/>
-      <a href="https://linkedin.com/in/fachrilakbar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="https://instagram.com/fachrilakbar_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     </td>
     <td width="35%" align="center" valign="top">
       <img src="me.gif" width="250" alt="My Profile GIF" />
+      <br/><br/>
+      <b>Connect with me:</b><br/>
+      <a href="https://linkedin.com/in/fachrilakbar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://instagram.com/fachrilakbar_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="25" height="25" alt="Laptop" align="absmiddle" /> Tech Stack
+---
+
+<br/>
+
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="25" height="25" alt="Laptop" align="absmiddle" /> Languages & Tools</h3>
 
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,python,laravel,nextjs,nodejs,express" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,mysql,postgres,mongodb,docker,git,github,vscode,postman" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,mysql,postgres,mongodb,docker,git,github,vscode,postman" />
+</div>
 
+<br/>
+
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="25" height="25" align="absmiddle" /> GitHub Statistics</h3>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fachrilakbar12&theme=tokyonight" alt="fachrilakbar12 stats" width="100%" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fachrilakbar12&theme=tokyonight" alt="fachrilakbar12 langs" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fachrilakbar12&theme=tokyonight&hide_border=true" alt="fachrilakbar12 streak" width="100%" />
+</p>
+
+<br/>
+
+<h3 align="center">🚀 Tech Stack</h3>
+
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -63,19 +92,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
 </div>
 
 <br/>
-
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fachrilakbar12&theme=tokyonight" alt="fachrilakbar12 stats" width="48%" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fachrilakbar12&theme=tokyonight" alt="fachrilakbar12 langs" width="48%" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=fachrilakbar12&theme=tokyonight&hide_border=true" alt="fachrilakbar12 streak" width="97%" />
-</p>
 
 <h3 align="center">🐍 Contribution Graph</h3>
 <div align="center">
